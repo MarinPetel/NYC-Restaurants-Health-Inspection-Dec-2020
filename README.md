@@ -50,7 +50,7 @@ One .geojson file, containing boundaries for NYC zip codes. It can be found [her
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](to be completed).
+The main findings of the code can be found at the post available [here](https://mrnpetel.medium.com/nyc-restaurants-how-to-choose-safely-9d5112998e91).
 
 ## Acknowledgements<a name="licensing"></a>
 
