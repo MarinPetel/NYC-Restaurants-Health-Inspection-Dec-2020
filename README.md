@@ -1,4 +1,5 @@
 # NYC Restaurants Health Inspections
+![](grades.jpg)
 
 ### Table of Contents
 
